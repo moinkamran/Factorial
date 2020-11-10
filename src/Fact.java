@@ -15,7 +15,7 @@ public class Fact
 	  System.out.println("Factorial is :" + factorial);  
 	    System.out.println("This line is added by Mohammad Miyan");  
 		
-		
+	    System.out.println("This line is added by moin");  
 		
 	    }
 
