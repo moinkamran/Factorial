@@ -13,7 +13,7 @@ public class Fact
 	    	  factorial=factorial*i;
 	    	 }
 	  System.out.println("Factorial is :" + factorial);  
-	    
+	    System.out.println("This line is added by Mohammad Miyan");  
 		
 		
 		
